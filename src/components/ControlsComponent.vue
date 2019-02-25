@@ -15,7 +15,7 @@
 
 <style scoped>
   button:disabled i {
-    color: gray;
+    color: silver;
   }
   .toggle-volume {
     float: right;
